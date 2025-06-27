@@ -100,3 +100,37 @@ This step ensures that the documented requirements accurately reflect the stakeh
 - Formal acceptance sign-offs  
 
 The objective is to gain stakeholder approval and reduce ambiguity before development begins.
+## Types of Requirements
+
+In software engineering, requirements are generally categorized into **functional** and **non-functional** requirements. Understanding the difference between the two helps ensure that both the behavior and the quality attributes of the system are adequately addressed.
+
+---
+
+### Functional Requirements
+
+**Functional requirements** describe what the system should do. They define specific behavior or functions of the system, including inputs, outputs, and interactions.
+
+#### Examples for a Booking Management System:
+
+- Users should be able to **create an account** and **log in** to the system.
+- The system should allow customers to **search for available bookings** by date, service type, or location.
+- Customers must be able to **book a service** and receive a confirmation email.
+- Admin users should be able to **view, edit, or cancel bookings**.
+- The system should generate **daily reports** of bookings made.
+
+---
+
+### Non-functional Requirements
+
+**Non-functional requirements** define how the system performs certain operations rather than what operations it performs. These are quality attributes such as performance, security, usability, and scalability.
+
+#### Examples for a Booking Management System:
+
+- The system should **load the booking search results within 2 seconds**.
+- User data must be **encrypted and securely stored** to comply with privacy regulations.
+- The application should be **accessible from mobile devices and tablets**.
+- The system must be **available 99.9% of the time** during business hours.
+- The interface should be **intuitive and easy to navigate**, even for first-time users.
+
+---
+
