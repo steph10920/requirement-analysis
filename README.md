@@ -1,0 +1,2 @@
+Requirement Analysis in Software Development
+This repository explores the critical process of requirement analysis in software development. It serves as a learning resource and documentation hub for understanding how to gather, document, and manage software requirements effectively. The goal is to ensure that software systems meet stakeholder needs by clearly defining functional and non-functional requirements before development begins.
