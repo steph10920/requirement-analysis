@@ -134,3 +134,38 @@ In software engineering, requirements are generally categorized into **functiona
 
 ---
 
+## Use Case Diagrams
+
+**Use Case Diagrams** are a visual modeling tool used during requirement analysis to capture the interactions between users (actors) and the system. They help represent the functional scope of a system from the end-user’s perspective by illustrating how different roles interact with specific features.
+
+### 📌 Benefits of Use Case Diagrams:
+
+- Provide a high-level overview of system functionality
+- Help stakeholders quickly understand how users will interact with the system
+- Serve as a foundation for writing detailed use cases and scenarios
+- Improve communication between technical and non-technical teams
+
+---
+
+### 🧩 Use Case Diagram for Booking Management System
+
+Below is a simplified use case diagram representing the key interactions within the Booking Management System. The diagram includes two main actors — **Customer** and **Admin** — and their associated use cases.
+
+
+### 👤 Actors:
+- **Customer**: End user who books services
+- **Admin**: System administrator managing bookings and users
+
+### ✅ Use Cases:
+- Register Account
+- Log In
+- Search Available Services
+- Make a Booking
+- Receive Booking Confirmation
+- Cancel Booking
+- View Booking History
+- Manage Bookings (Admin)
+- Generate Reports (Admin)
+
+---
+
